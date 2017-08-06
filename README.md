@@ -9,7 +9,7 @@ Authentication in NodeJs  using passport authentication middleware which covers 
   - passport-google-oauth[to login with google]
   - passport-twitter [to login with twitter]
 
-# New Features!
+# New Features
 
   - Hashing password using bcrypt-nodejs
   - Passing session flashdata messages
